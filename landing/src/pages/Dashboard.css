@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-direction: column;
+  }
+
+.left-panel {
+   
+    width: 200px; /* Adjust as needed */
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: rgb(155, 101, 240);
+    color: #fff;
+    cursor: pointer;
+  }
+
+  .main-content {
+    flex: 1;
+    /* Additional styles for the main content area */
+  }
+  .box{
+    margin-top: 10vmin;
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+  }
