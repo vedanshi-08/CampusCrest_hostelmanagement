@@ -31,3 +31,15 @@
     flex-direction: row;
     gap: 5rem;
   }
+  .annoucement{
+    border: 1px solid rgb(155, 101, 240);
+   
+    border-style: groove;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .annoucement-header{
+    font-size: 5vmin;
+    
+    color: rgb(114, 66, 192);
+   
+  }
