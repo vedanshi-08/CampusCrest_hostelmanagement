@@ -7,6 +7,6 @@ Campus Crest is website for online hostel management system for students residin
 are available for the users(students) to ease their stay in hostels.
 
 Technologies used for developement:
-- Frontend: React JS
+- Frontend: React JS, HTML, CSS
 - Backend: Hibernate, Spring Frameworks
 - Database: MySQL
